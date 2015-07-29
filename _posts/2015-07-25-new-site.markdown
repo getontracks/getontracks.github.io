@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "New Site: Team Blog, Careers, Brand Guide"
+date:   2015-07-28 16:30:56
+categories: blog
+permalink: /new-website
+author: Evan
+---
+
+Oh my, it's so much fun! No we didn't use React.
+
+Have a look around:  
+![Hooray](https://i.imgur.com/eFyeOSV.jpg)
+
+Learn more about us: [About]  
+New jobs available: [Careers]  
+All our fun colors: [Brand]  
+
+Looking for something? Shoot us an email: [hello@getontracks.com]
+
+[About]: /about
+[Careers]: /careers
+[Brand]: /brand
+[hello@getontracks.com]: mailto:hello@getontracks.com
+
+

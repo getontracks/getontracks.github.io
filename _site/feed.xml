@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracks - Video Conversations</title>
+    <description>Download Tracks for iPhone! Tracks makes video messaging more like talking face-to-face. By capturing your authentic reaction and response each time you open a video, Tracks enables continuous, face-to-face conversations—on your time.</description>
+    <link>http://getontracks.com/</link>
+    <atom:link href="http://getontracks.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Jul 2015 22:14:05 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2015 22:14:05 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>New Site: Team Blog, Careers, Brand Guide</title>
+        <description>&lt;p&gt;Oh my, it’s so much fun! No we didn’t use React.&lt;/p&gt;
+
+&lt;p&gt;Have a look around:&lt;br /&gt;
+&lt;img src=&quot;https://i.imgur.com/eFyeOSV.jpg&quot; alt=&quot;Hooray&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Learn more about us: &lt;a href=&quot;/about&quot;&gt;About&lt;/a&gt;&lt;br /&gt;
+New jobs available: &lt;a href=&quot;/careers&quot;&gt;Careers&lt;/a&gt;&lt;br /&gt;
+All our fun colors: &lt;a href=&quot;/brand&quot;&gt;Brand&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking for something? Shoot us an email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#103;&amp;#101;&amp;#116;&amp;#111;&amp;#110;&amp;#116;&amp;#114;&amp;#097;&amp;#099;&amp;#107;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#103;&amp;#101;&amp;#116;&amp;#111;&amp;#110;&amp;#116;&amp;#114;&amp;#097;&amp;#099;&amp;#107;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 28 Jul 2015 12:30:56 -0400</pubDate>
+        <link>http://getontracks.com/new-website</link>
+        <guid isPermaLink="true">http://getontracks.com/new-website</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Tracks Available Now for iOS</title>
+        <description>&lt;p&gt;This morning we released our form of communication to the U.S. App Store. &lt;a href=&quot;https://itunes.apple.com/app/apple-store/id991383515?pt=117131894&amp;amp;ct=WebsiteArticle&amp;amp;mt=8&quot;&gt;Tracks&lt;/a&gt; is a new way to talk face-to-face, and we can’t wait to see how you use it!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 01 Jul 2015 12:30:56 -0400</pubDate>
+        <link>http://getontracks.com/tracks-available-now-for-ios</link>
+        <guid isPermaLink="true">http://getontracks.com/tracks-available-now-for-ios</guid>
+        
+        <category>ios</category>
+        
+        <category>download</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Knight Foundation Grant Winner</title>
+        <description>&lt;p&gt;We’re happy to announce we are one of the recipients of the Knight Foundation Prototype Fund.&lt;/p&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;http://www.knightfoundation.org/grants/201550765/&quot;&gt;Tracks Awarded $35k by the Knight Prototype Fund&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;About the fund:&lt;br /&gt;
+The Knight Foundation funds groups of prototype projects each quarter. In addition to $35,000, teams receive training in human-centered design and support from a data science team at Impact Lab to structure their learning objectives. At the end of six months, they meet to share what they’ve learned and the outcomes of their projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.knightfoundation.org/blogs/knightblog/2015/4/30/20-projects-explore-new-uses-data-media-and-tech-support-knight-prototype-fund/&quot;&gt;Full Article&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 28 Apr 2015 21:30:56 -0400</pubDate>
+        <link>http://getontracks.com/knight-foundation-grant-winner</link>
+        <guid isPermaLink="true">http://getontracks.com/knight-foundation-grant-winner</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

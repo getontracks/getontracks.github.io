@@ -1,0 +1,244 @@
+@media(max-width: 1200px) and (min-width: 992px) {
+    .p-teaser {
+        font-size: 22px;
+    }
+    .input {
+        min-width: 237px;
+    }
+    .button--submit {
+        margin-left: -3px;
+    }
+
+    .p-comingSoon {
+        font-size: 16px;
+    }
+
+            .social-icons i {
+        font-size: 36px;
+        padding: 20px 10px 20px 0;
+    }
+}
+
+@media(max-width: 992px) and (min-width: 768px) {
+
+
+    p {
+        font-size: 18px;
+    }
+
+        .social-icons i {
+        font-size: 36px;
+        padding: 20px 10px 20px 0;
+    }
+
+    .p-tagline {
+        font-size: 20px;
+    }
+
+    .p-appStore {
+        width: 100%;
+        font-size: 18px;
+    }
+
+   .b-betaForm-center {
+    width: 100%;
+   } 
+
+   .p-explaination {
+    font-size: 18px;
+   }
+
+   .b-betaForm {
+
+    margin-top: 16px !important;
+
+   }
+        .input-bottom {
+
+        padding: 13px 0px 13px 0px;
+        margin: 0 0 10px 0;
+        text-align: center;
+        width: 100% !important;
+        border-radius: 3px !important;
+        &::-webkit-input-placeholder {
+            text-align: center;
+        }
+        &::-moz-placeholder {
+            text-align: center;
+        }
+    }
+    .button--submit-bottom {
+        border-radius: 3px !important;
+        width: 100%;
+    }
+    .p-comingSoon {
+        font-size: 14px;
+          top: -20px;
+            position: relative;
+    }
+    .p-teaser {
+        margin-top: 0px;
+        font-size: 28px;
+        line-height: 1.5;
+    }
+    .input {
+        min-width: 177px;
+    }
+    .button {
+        padding: 13px;
+    }
+    .button--submit {
+        margin-left: -3px;
+    }
+}
+@media (max-width: 768px) and (min-width: 200px) {
+
+    .hide-mobile {
+        display: none;
+    }
+
+    .teal-bg {
+        padding: 50px 0 50px 0 !important;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .logo {
+        max-width: 210px;
+    }
+
+    .b-logo {
+        padding-bottom: 10px;
+    }
+
+    .b-social {
+        top: 40px;
+        position: relative;
+    }
+
+    .social-icons i {
+        font-size: 28px;
+        padding: 20px 20px 20px 0;
+    }
+
+    .button {
+        width: 100%;
+    }
+
+    .img-mixpanel {
+        width: 100px;
+    }
+
+
+    .p-appStore {
+        width: 100%;
+    }
+
+    .wow {
+  visibility: visible !important;
+  -webkit-animation: none !important;
+     -moz-animation: none !important;
+       -o-animation: none !important;
+      -ms-animation: none !important;
+          animation: none !important;
+    }
+
+    .intro p {
+        text-align: center;
+    }
+
+    .train-animation {
+        display: none;
+    }
+
+    .videoWrapper iframe {
+        width: 100%;
+    }
+
+    .form-group {
+
+        margin: 0 auto;
+    }
+
+    h2 {
+        font-size: 30px !important;
+        font-weight: 700;
+    }
+    .input-bottom {
+         min-width: 0;
+    }
+    .p-comingSoon {
+        font-size: 16px;
+        text-align: center;
+    }
+    .b-betaForm {
+        margin: 40px 0 !important;
+    }
+
+    .p-thanks {
+        text-align: center;
+    }
+    .p-teaser {
+        text-align: center;
+        margin: 50px 0 20px 0;
+        line-height: 1.5;
+        font-size: 28px;
+    }
+    .b-logo {
+        position: relative;
+        margin: 0 auto;
+        display: block;
+    }
+    .logo {
+        display: block;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .input {
+        padding: 13px 0px 13px 0px;
+        margin: 0 0 10px 0;
+        text-align: center;
+        width: 100% !important;
+        border-radius: 3px !important;
+        &::-webkit-input-placeholder {
+            text-align: center;
+        }
+        &::-moz-placeholder {
+            text-align: center;
+        }
+    }
+    .button--submit {
+        border-radius: 3px !important;
+        width: 100%;
+    }
+    input[type="submit"] {
+        float: none !important;
+        display: block !important;
+        margin: 0 auto;
+    }
+    .img-mobile {
+        padding: 50px 0 !important;
+        max-width: 250px;
+        margin: 0 auto;
+        display: block;
+    }
+    .logoText {
+        font-size: 48px;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .logoImg--large {
+        position: relative !important;
+        max-width: 45px !important;
+        padding: 8px 12px !important;
+        display: block;
+        margin: 0 auto;
+    }
+    .footer {
+        position: relative;
+    }
+}
+
