@@ -4637,7 +4637,7 @@ input:focus ~ label, input:valid ~ label {
 .icon-medium:before {
   content: "\f23a"; }
 
-.mobile-menu {
+.mobile-menu-btn {
   display: none; }
 
 .desktop-menu {
@@ -4723,7 +4723,7 @@ input:focus ~ label, input:valid ~ label {
   .desktop-menu {
     display: none; }
 
-  .mobile-menu {
+  .mobile-menu-btn {
     display: block; }
 
   .hide-mobile {
