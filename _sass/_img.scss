@@ -1,0 +1,46 @@
+
+.img-mixpanel {
+    top: 0;
+  position: relative;
+}
+
+.img-mobile {
+    width: 100%;
+    margin: -20px 0 0 0;
+    &.landing {
+        padding: 0px 0 108px 0;
+    }
+}
+
+.apple-logo {
+    margin-right: 3px;
+}
+
+
+.logo {
+    float: left;
+    width: 120px;
+    position: relative;
+    top: -8px;
+}
+
+.logo-splash {
+    @include ease;
+    max-width: 250px;
+    z-index: 10;    
+}
+
+.about-logo {
+    display: block;
+    max-width: 150px;
+    margin: 0 auto;
+}
+
+.img-responsive {
+    max-width: 100%;
+}
+
+.careers-train {
+    display: block;
+    width: 100%;
+}

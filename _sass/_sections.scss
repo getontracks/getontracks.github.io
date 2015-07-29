@@ -1,0 +1,196 @@
+
+section.active {}
+
+.section-md:first-child {
+    padding: 0 0 20px 0;
+}
+
+.section-md {
+    padding: 20px 0;
+}
+
+.section-green {
+    background: $green;
+    padding: 20px;  
+
+    h1, h2, p {
+        color: #fff;
+    }
+}
+
+.careers-home-bg {
+    padding: 200px 0;
+      background: url('../images/careers-bg.png') no-repeat 0% 100%; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  background-color: $blueMedium;
+
+  & h2 {
+    color: $white;
+  }
+}
+
+.bg-careers {
+      background: url('../images/miami.JPG') no-repeat 20% 50% fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 100px 0;
+  min-height: 300px;
+  color: #fff;
+}
+
+.bg-green {
+    background: $green;
+    padding: 20px;
+    border-radius: 10px;
+
+    &.bg-green-sm {
+        padding: 60px;
+    }
+}
+
+.bg-gray {
+    background: $grayExtraLight;
+}
+
+.bg-white {
+    border-radius: 10px;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #e1e1e1;
+
+    &.bg-white-sm {
+        padding: 60px;
+    }
+}
+
+.bg-large {
+    padding: 100px 0;
+    color: #fff;
+    background: $green;
+}
+
+.bg-med {
+    padding: 50px 0;
+    color: #fff;
+    background: $green;  
+}
+
+.hero {
+    h1, p {
+        text-align: center;
+        padding: 5px 0;
+    }
+}
+
+.footer {
+    background: $blueMedium;
+    padding: 50px 0;
+
+    h4 {
+        margin: 10px 0;
+        color: $whiteOpacity;
+    }
+
+    p {
+        color: #fff;
+        font-size: 16px;
+    }
+
+    a {
+        color: #fff;
+    }
+}
+
+.bg-newsletter {
+    background: $grayLight !important;
+}
+
+.teal-bg {
+    background: $teal;
+    padding: 100px 0 100px 0;
+    h1, h2, h4 {
+        color: $lightWhite;
+    }
+
+    p {
+        color: $lightWhite; 
+        font-size: 26px; 
+    }
+}
+
+.darkteal-bg {
+    background: $blueMedium;
+    padding: 100px 0 100px 0;
+    h1, h2, h4 {
+        color: $lightWhite;
+    }
+
+    p {
+        color: $lightWhite; 
+        font-size: 26px; 
+    }
+}
+
+.purple-bg {
+    background: $purpleLight;
+    padding: 100px 0 20px 0;
+
+    h2, h4 {
+        color: $lightWhite;
+    }
+
+    p {
+        color: $lightWhite;  
+    }
+}
+
+.dark-bg {
+    background: $darkBlue;
+    padding: 100px 0 200px 0;
+    color: $lightWhite;
+
+    h2 {
+        color: $lightWhite;
+    }
+}
+
+
+.primary-bg {
+    background: $primary;
+    padding: 150px 0 50px 0;
+    color: $lightWhite;
+
+    h2 {
+        color: $lightWhite;
+    }  
+}
+
+.white-bg {
+    background: #fff;
+    color: $grayMedium;
+    padding: 100px 0 100px 0;    
+
+
+    p {
+        font-size: 26px; 
+    }
+
+    h1 {
+        color: $green;
+    }
+
+    h2 {
+        color: $grayMedium;
+        margin-bottom: 20px;
+    }
+
+    h4 {
+        padding-bottom: 15px;
+    }
+}

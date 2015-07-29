@@ -1,3 +1,13 @@
+.mobile-menu {
+    display: none;
+}
+
+    .desktop-menu {
+    display: block;
+}
+
+
+
 @media(max-width: 1200px) and (min-width: 992px) {
     .p-teaser {
         font-size: 22px;
@@ -92,6 +102,18 @@
     }
 }
 @media (max-width: 768px) and (min-width: 200px) {
+
+    #sidebar {
+        display: none;
+    }
+
+    .desktop-menu {
+        display: none;
+    }
+
+    .mobile-menu {
+        display: block;
+    }    
 
     .hide-mobile {
         display: none;
@@ -241,4 +263,3 @@
         position: relative;
     }
 }
-

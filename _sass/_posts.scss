@@ -1,0 +1,51 @@
+
+ul.post-list {
+    list-style: none;
+}
+
+a.post-link {
+    color: $green;
+    display: block;
+
+   &:visited {
+    color: $green;
+   }
+}
+
+.b-recent-posts {
+    padding: 50px 0;
+}
+
+.post-block {
+    padding: 20px 0;
+
+    p {
+        padding-bottom: 22px;
+    }
+
+    a {
+        @include ease;
+        color: $grayMedium;
+        border-bottom: 1px solid $grayMedium;
+
+        &:hover {
+            color: $grayDark;
+            border-bottom: 1px solid $grayDark;
+        }
+    }
+}
+
+.post-link-block {
+    border-bottom: 1px solid lighten($grayLight, 20%);
+    padding: 15px 0 20px 0;
+    display: block;
+
+    &:hover {
+        cursor: pointer;
+        background: $purpleLight;
+    }
+}
+
+.post-meta {  
+    font-size: 16px;
+}

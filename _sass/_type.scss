@@ -1,0 +1,162 @@
+@font-face {
+  font-family: 'AvenirNextRegular';
+  src: url('../fonts/AvenirNextRegular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'AvenirNextDemiBold';
+  src: url('../fonts/AvenirNextDemiBold.ttf') format('truetype');
+}
+
+
+p {
+    font-size: 22px;
+    line-height: 1.8;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: $fontBold;
+    letter-spacing: -0.3pt;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 1.5;
+    letter-spacing: -0.5pt;
+}
+
+h4 {
+    color: $grayLight;
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: 1.5pt;
+}
+
+h5 {
+    color: $grayLight;
+    font-size: 14px;
+    line-height: 1.5;
+    letter-spacing: -0.5pt;    
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+hr {
+    margin: 0;
+    border: 0;
+    height: 1px;
+    background: #E1E1E1;
+}
+
+.divider{
+    width:100%;
+    margin: 20px auto;
+    overflow:hidden;
+    text-align:center;   
+    line-height:1.2em;
+}
+
+.divider:before, .divider:after{
+    content:"";
+    vertical-align:top;
+    display:inline-block;
+    width:50%;
+    height:0.65em;
+    border-bottom:1px solid $grayLight;
+    margin:0 2% 0 -55%;
+}
+.divider:after{
+    margin:0 -55% 0 2%;
+}
+
+
+.p-appStore {
+    @include ease;
+    font-size: 22px;
+    color: #fff;
+    font-family: $fontBold;
+    text-align: center;
+     padding: 13px 0;
+     border-radius: 3px;
+     width: 100%;
+     margin: 0;
+    background: $grayDark;
+
+    &:hover {
+        background: $grayMedium;
+    }
+}
+
+
+.p-comingSoon {
+    font-size: 16px;
+}
+
+.p-copyright {
+    margin-top: -23px;
+}
+
+.p-tagline {
+    font-size: 26px;
+}
+
+.p-br {
+    margin-top: 15px;
+}
+
+.p-big {
+    font-size: 26px;
+}
+
+.copyrightText {
+    color: $whiteOpacity !important;
+    font-size: 12px !important;
+}
+
+
+.jobLink {
+    color: $grayDark;
+}
+
+.p-link--gray {
+    text-decoration: none;
+    color: $grayMedium;
+    border-bottom: 1px solid $grayMedium;
+
+    &:hover {
+        color: $grayDark;
+        border-bottom: 1px solid $grayDark;
+    }
+}
+
+.p-link--white {
+    @include ease;
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 1px solid $blueMedium;
+
+
+    &:hover {
+        opacity: 0.5;
+        border-bottom: 1px solid $grayLight;
+    
+    }   
+}
+
+.hellohired-job a {
+    color: $green;
+    transition: ease all .2s;
+
+    span.type, span.location {
+        color: $grayLight;
+        font-size: 14px;
+    }
+
+    &:hover {
+        background: #f9f9f9;
+    }
+}

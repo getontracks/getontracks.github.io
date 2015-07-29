@@ -1,0 +1,143 @@
+.mobile-menu-btn {
+    cursor: pointer;
+    padding: 2px 8px;
+    border-radius: 3px;
+    border: 2px solid $green;
+    color: $green !important;
+    font-size: 18px;
+}
+
+.nav {
+    list-style-type: none;
+}
+
+.nav li {
+    padding: 15px 0;
+
+}
+
+.nav li a {
+
+  //border-bottom: 1px solid #E1E1E1;
+  color: $grayLight;
+  font-size: 18px;
+  text-decoration: none;
+    transition: ease all 0.2s;
+
+    &:hover {
+        color: $grayDark;
+    }
+}
+
+.nav li:last-child {
+
+}
+
+.nav li.active {
+  position: relative;
+
+}
+
+.nav li.active a {
+    text-decoration: none;
+  border-left: 2px solid $green;
+  height: 100%;
+  padding-left: 10px;
+}
+
+a.active {
+    color: $grayDark !important;
+    border-left: 2px solid $green;
+    padding-left: 10px;
+}
+
+.sidebar {
+  top: 20px;
+  position: relative;
+}
+
+#sidebar.moveSidebarDown {
+    @include ease;
+    top: 30px;
+    position: fixed;
+    padding-right: 30px;
+}
+
+#sidebar.moveSidebarUp {
+    @include ease;  
+    top: -250px;
+    position: fixed;
+    padding-right: 30px;
+}
+
+.mobile-menu-dropdown {
+    @include ease;
+    clear: both;
+    display: none;
+    background: $grayExtraLight;
+}
+
+.showMobileMenu {
+    display: block;
+}
+
+
+.mobile-menu-item {
+    text-align: center;
+    padding: 10px 0;
+
+    & a {
+        color: $grayMedium;
+    }   
+
+    &:hover {
+        background: $grayLight;
+        color: $grayDark;
+        cursor: pointer;
+    }   
+}
+
+.menu-item {
+    text-align: right;
+    float: right;
+    display: block;
+     top: -6px;
+    position: relative;
+    font-size: 18px;
+    padding: 2px 0 2px 20px;
+}
+
+.menu-item a {
+    color: $grayMedium;
+    text-decoration: none;
+
+    &:hover {
+        color: $green;
+    }
+
+    &.active-menu-item {
+        color: $green;
+        border-bottom: 2px solid $green;
+        padding-bottom: 4px;
+    }
+}
+
+.menu-download-btn a {
+    display: block;
+    border: solid 2px $grayLight;
+    color: $grayMedium;
+    border-radius: 4px;
+    padding: 0 8px;
+    top: -2px;
+    position: relative;
+
+    &:hover {
+        color: $green;
+        border: 2px solid $green;
+    }
+}
+
+.tab-container {
+    margin-top: 30px;
+    padding-bottom: 10px;
+}

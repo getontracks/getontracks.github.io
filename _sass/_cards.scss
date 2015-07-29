@@ -1,0 +1,72 @@
+.card {
+    background: white;
+    border: 1px solid #e1e1e1;
+}
+
+.card-content {
+    padding: 10px 20px;
+}
+
+.colorSquare {
+    width: 100%;
+    height: 60px;
+    border-bottom: 1px solid #ededed;
+
+    &.green {
+        background: $green;
+    }
+
+    &.red {
+        background: $red;
+    }
+
+    &.grayDark {
+        background: $grayDark;
+    }
+    &.grayMedium {
+       background: $grayMedium; 
+    }
+    &.grayLight {
+       background: $grayLight; 
+    }
+    &.grayExtraLight {
+        background: $grayExtraLight;
+    }
+     &.white {
+       background: #fff; 
+    }
+    &.purpleLight {
+        background: $purpleLight;
+    }
+}
+
+.jobName {
+    font-size: 22px;
+    border-bottom: 1px solid #EAEAEA;
+    padding-bottom: 10px;
+
+    // &:hover {
+    //  border-bottom: 1px solid #F0F0F0;
+    // }
+}
+
+.jobLocation {
+    color: $grayLight;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding-top: 5px;
+    letter-spacing: 1.5pt;
+}
+
+.jobCard {
+    margin: 10px 0 20px 0;
+    cursor: pointer;
+    -webkit-transition: ease all .3s;
+
+    
+    &:hover {
+        
+        background: #F2F7FC;
+    }
+}
+
