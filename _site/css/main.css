@@ -4105,7 +4105,7 @@ input:focus ~ label, input:valid ~ label {
 
   .p-appStore {
     width: 100%;
-    font-size: 18px; }
+    font-size: 18px !important; }
 
   .b-betaForm-center {
     width: 100%; }
@@ -4367,7 +4367,7 @@ a {
   -webkit-transition: ease all .3s;
   -moz-transition: ease all .3s;
   transition: ease all .3s;
-  font-size: 22px !important;
+  font-size: 22px;
   color: #fff;
   font-family: "AvenirNextDemiBold", "Helvetica", sans-serif;
   text-align: center;
