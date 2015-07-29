@@ -3,7 +3,7 @@ title: Tracks - Video Conversations
 email: hello@getontracks.com
 description: Download Tracks for iPhone! Tracks makes video messaging more like talking face-to-face. By capturing your authentic reaction and response each time you open a video, Tracks enables continuous, face-to-face conversations—on your time.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://getontracks.com" # the base hostname & protocol for your site
+url: "http://getontracks.github.io" # the base hostname & protocol for your site
 twitter_username: getontracks
 github_username:  getontracks
 
