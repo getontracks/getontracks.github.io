@@ -2212,6 +2212,8 @@ a.post-link {
     background: #fff; }
   .colorSquare.purpleLight {
     background: #F2F7FC; }
+  .colorSquare.blueMedium {
+    background: #4A6986; }
 
 .jobName {
   font-size: 22px;
@@ -2404,7 +2406,8 @@ a.active {
   width: 100%;
   background-color: #4A6986; }
   .careers-home-bg h2 {
-    color: #fff; }
+    color: #fff;
+    padding: 30px 0; }
 
 .bg-careers {
   background: url("../images/miami.JPG") no-repeat 20% 50% fixed;
