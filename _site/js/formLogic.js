@@ -175,7 +175,8 @@
         mixpanel.track("Community job clicked");
     });
 
-    $('.mobile-menu').click(function() {
+    $('.mobile-menu-btn').click(function() {
         $('.mobile-menu-dropdown').toggleClass("showMobileMenu");
+        console.log("does it work");
     });
   }); // end doc ready

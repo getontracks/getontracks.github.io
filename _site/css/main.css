@@ -2274,11 +2274,11 @@ a.post-link {
 
 .mobile-menu-btn {
   cursor: pointer;
-  padding: 2px 8px;
+  top: 6px !important;
+  padding: 2px 8px !important;
   border-radius: 3px;
   border: 2px solid #25c0b4;
-  color: #25c0b4 !important;
-  font-size: 18px; }
+  color: #25c0b4 !important; }
 
 .nav {
   list-style-type: none; }
