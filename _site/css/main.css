@@ -2340,14 +2340,18 @@ a.active {
   display: block; }
 
 .mobile-menu-item {
-  text-align: center;
-  padding: 10px 0; }
+  text-align: center; }
   .mobile-menu-item a {
-    color: #707271; }
-  .mobile-menu-item:hover {
-    background: #AFB1B0;
-    color: #413E42;
-    cursor: pointer; }
+    color: #707271;
+    display: block;
+    padding: 10px 0;
+    position: relative;
+    line-height: 2.5; }
+    .mobile-menu-item a:hover {
+      background: #F2F7FC;
+      color: #413E42;
+      cursor: pointer;
+      width: 100%; }
 
 .menu-item {
   text-align: right;

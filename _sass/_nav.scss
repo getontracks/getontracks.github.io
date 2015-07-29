@@ -84,16 +84,21 @@ a.active {
 
 .mobile-menu-item {
     text-align: center;
-    padding: 10px 0;
 
     & a {
         color: $grayMedium;
-    }   
+        display: block;
+            padding: 10px 0;
+            position: relative;
+            line-height: 2.5;
 
-    &:hover {
-        background: $grayLight;
+
+        &:hover {
+        background: $purpleLight;
         color: $grayDark;
         cursor: pointer;
+         width: 100%;
+        }       
     }   
 }
 
