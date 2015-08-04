@@ -4,8 +4,6 @@ Our website: [getontracks.com](http://getontracks.com)
 
 Using [Jekyll](http://jekyllrb.com/).
 
-Usage:
-
 Clone the site  
 `git clone https://github.com/getontracks/getontracks.github.io.git`
 
