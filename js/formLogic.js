@@ -18,6 +18,7 @@
           var submitButton = $('#submitEmailForm');
           $.ajax({
             type: 'POST',
+            async:false,            
             url: 'https://formkeep.com/f/906a5811db16',
             accept: {
               javascript: 'application/javascript'
@@ -63,6 +64,7 @@
           var submitButton = $('#submitPhoneForm');
           $.ajax({
             type: 'POST',
+            async:false,
             url: 'http://files.getontracks.com/sendnotifications.php',
             accept: {
               javascript: 'application/javascript'
