@@ -4868,6 +4868,7 @@ input:focus ~ label, input:valid ~ label {
     margin: 0 auto; }
 
   .footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
     position: relative; }
     .footer p {
       font-size: 22px;
