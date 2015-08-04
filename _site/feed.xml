@@ -5,15 +5,35 @@
     <description>Download Tracks for iPhone! Tracks makes video messaging more like talking face-to-face. By capturing your authentic reaction and response each time you open a video, Tracks enables continuous, face-to-face conversations—on your time.</description>
     <link>http://getontracks.github.io/</link>
     <atom:link href="http://getontracks.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jul 2015 11:38:55 -0400</pubDate>
-    <lastBuildDate>Fri, 31 Jul 2015 11:38:55 -0400</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2015 22:16:09 -0400</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2015 22:16:09 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>New Site: Team Blog, Careers, Brand Guide</title>
-        <description>&lt;p&gt;Oh my, it’s so much fun!&lt;/p&gt;
+        <title>Tracks Wins Miami Startup of the Year</title>
+        <description>&lt;p&gt;We’re lucky to have been voted Miami’s best startup. Thank you to &lt;a href=&quot;http://tech.co/tracks-live-answer-miami-startups-year-2015-08&quot;&gt;tech.co&lt;/a&gt; for the award!&lt;/p&gt;
 
-&lt;p&gt;Have a look around:&lt;br /&gt;
+&lt;p&gt;From Tech.co:&lt;/p&gt;
+
+&lt;p&gt;The Tech Cocktail event crew was thrilled to help WeWork open their new Miami location, right in the heart of Lincoln Rd in South Beach. The atmosphere at last Thursday’s event was just as fun as the scene outside! The volunteer community in Miami is strong, and we’d like to thank all of the volunteers who helped make this event possible, along with our sponsors: WeWork – Lincoln Road, Carve Communications, Ford, Advaion, American Airlines, and CEA.&lt;/p&gt;
+
+&lt;p&gt;13 fantastic Miami startups got to pitch their products to the local community: from health care to sports apps, Miami startups really do show up! The winners from Thursday night qualify for the semifinals at Celebrate 2015 in Las Vegas!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tech.co/tracks-live-answer-miami-startups-year-2015-08&quot;&gt;Full Article&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 03 Aug 2015 21:30:56 -0400</pubDate>
+        <link>http://getontracks.github.io/news/tracks-miamis-best-startup</link>
+        <guid isPermaLink="true">http://getontracks.github.io/news/tracks-miamis-best-startup</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>New Site: Team Blog, Careers, Brand Guide</title>
+        <description>&lt;p&gt;Have a look around:&lt;br /&gt;
 &lt;img src=&quot;https://i.imgur.com/eFyeOSV.jpg&quot; alt=&quot;Hooray&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Learn more about us: &lt;a href=&quot;/about&quot;&gt;About&lt;/a&gt;&lt;br /&gt;
@@ -25,9 +45,9 @@ All our fun colors: &lt;a href=&quot;/brand&quot;&gt;Brand&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Our new site is built using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. It’s open source (&lt;a href=&quot;https://github.com/getontracks/getontracks.github.io&quot;&gt;repo&lt;/a&gt;), so feel free to make a pull request for changes you would like to see :)&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 29 Jul 2015 12:30:56 -0400</pubDate>
-        <link>http://getontracks.github.io/new-website</link>
-        <guid isPermaLink="true">http://getontracks.github.io/new-website</guid>
+        <pubDate>Mon, 03 Aug 2015 12:30:56 -0400</pubDate>
+        <link>http://getontracks.github.io/news/new-website</link>
+        <guid isPermaLink="true">http://getontracks.github.io/news/new-website</guid>
         
         
         <category>blog</category>
@@ -36,12 +56,14 @@ All our fun colors: &lt;a href=&quot;/brand&quot;&gt;Brand&lt;/a&gt;&lt;/p&gt;
     
       <item>
         <title>Tracks Available Now for iOS</title>
-        <description>&lt;p&gt;This morning we released our form of communication to the U.S. App Store. &lt;a href=&quot;https://itunes.apple.com/app/apple-store/id991383515?pt=117131894&amp;amp;ct=WebsiteArticle&amp;amp;mt=8&quot;&gt;Tracks&lt;/a&gt; is a new way to talk face-to-face, and we can’t wait to see how you use it!&lt;/p&gt;
+        <description>&lt;p&gt;This morning we released our form of communication to the iTunes App Store. We’ve built an entirely new way to talk face-to-face, and we can’t wait to see how you use it!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/apple-store/id991383515?pt=117131894&amp;amp;ct=WebsiteArticle&amp;amp;mt=8&quot;&gt;Download Tracks for iOS&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 01 Jul 2015 12:30:56 -0400</pubDate>
-        <link>http://getontracks.github.io/tracks-available-now-for-ios</link>
-        <guid isPermaLink="true">http://getontracks.github.io/tracks-available-now-for-ios</guid>
+        <link>http://getontracks.github.io/news/tracks-available-now-for-ios</link>
+        <guid isPermaLink="true">http://getontracks.github.io/news/tracks-available-now-for-ios</guid>
         
         <category>ios</category>
         
@@ -65,8 +87,8 @@ The Knight Foundation funds groups of prototype projects each quarter. In additi
 
 </description>
         <pubDate>Tue, 28 Apr 2015 21:30:56 -0400</pubDate>
-        <link>http://getontracks.github.io/knight-foundation-grant-winner</link>
-        <guid isPermaLink="true">http://getontracks.github.io/knight-foundation-grant-winner</guid>
+        <link>http://getontracks.github.io/news/knight-foundation-grant-winner</link>
+        <guid isPermaLink="true">http://getontracks.github.io/news/knight-foundation-grant-winner</guid>
         
         
         <category>blog</category>

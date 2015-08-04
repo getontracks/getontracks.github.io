@@ -45,12 +45,6 @@
 
 .jobName {
     font-size: 22px;
-    border-bottom: 1px solid #EAEAEA;
-    padding-bottom: 10px;
-
-    // &:hover {
-    //  border-bottom: 1px solid #F0F0F0;
-    // }
 }
 
 .jobLocation {
@@ -64,7 +58,7 @@
 .jobCard {
     margin: 10px 0 20px 0;
     cursor: pointer;
-    -webkit-transition: ease all .3s;
+    @include ease;
 
     
     &:hover {

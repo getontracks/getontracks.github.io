@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "New Site: Team Blog, Careers, Brand Guide"
-date:   2015-07-29 16:30:56
+date:   2015-08-03 16:30:56
 categories: blog
-permalink: /new-website
-author: Evan
+permalink: /news/new-website
+author: Team Tracks
 ---
-
-Oh my, it's so much fun!
 
 Have a look around:  
 ![Hooray](https://i.imgur.com/eFyeOSV.jpg)
