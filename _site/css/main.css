@@ -2566,12 +2566,12 @@ p {
 h1 {
   font-size: 48px;
   font-family: "AvenirNextDemiBold", "Helvetica", sans-serif;
-  letter-spacing: -0.3pt; }
+  letter-spacing: -0.2pt; }
 
 h2 {
   font-size: 30px;
   line-height: 1.5;
-  letter-spacing: -0.5pt; }
+  letter-spacing: -0.3pt; }
 
 h4 {
   color: #AFB1B0;
@@ -2583,7 +2583,7 @@ h5 {
   color: #AFB1B0;
   font-size: 14px;
   line-height: 1.5;
-  letter-spacing: -0.5pt; }
+  letter-spacing: -0.3pt; }
 
 a {
   text-decoration: none;
