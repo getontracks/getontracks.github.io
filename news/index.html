@@ -3,31 +3,25 @@ layout: default
 title: News
 permalink: /news/
 ---
-
 <section class="hero bg-brand bg-med">
-  
   <h1>Tracks News</h1>
-  <p>Press & tracks team blog</p>
-
+  <p>Press & Tracks Team Blog</p>
 </section>
-
 <div class="container">
-<div class="row pad-row-lg">
-<div class="col-sm-18 col-sm-offset-3">
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li class="post-link-block">
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      </li>
-    {% endfor %}
-  </ul>
-
-<!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
- -->
-</div>
-</div>
+  <div class="row pad-row-lg">
+    <div class="col-sm-18 col-sm-offset-3">
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li class="post-link-block">
+            <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+      <!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      -->
+    </div>
+  </div>
 </div>
