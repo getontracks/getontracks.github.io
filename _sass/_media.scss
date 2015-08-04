@@ -150,12 +150,18 @@
     }
 
     .img-mixpanel {
-        width: 100px;
+        display: none;
     }
 
 
     .p-appStore {
         width: 100%;
+        font-size: 20px;
+    }
+
+    .careers-home-bg {
+        background-image: none;
+        padding: 200px 0 100px 0;
     }
 
     .wow {
@@ -261,5 +267,10 @@
     }
     .footer {
         position: relative;
+
+        p {
+            font-size: 22px;
+            line-height: 2;
+        }
     }
 }
