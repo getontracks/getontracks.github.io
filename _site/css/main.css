@@ -4872,6 +4872,15 @@ input:focus ~ label, input:valid ~ label {
     .footer p {
       font-size: 22px;
       line-height: 2; } }
+.banner {
+  width: 100%; }
+
+.banner-alert {
+  background: #413E42;
+  padding: 10px;
+  color: #fff;
+  text-align: center; }
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
