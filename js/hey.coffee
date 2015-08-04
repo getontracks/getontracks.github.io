@@ -61,7 +61,7 @@ $(document).ready ->
         submitButton = $('#submitPhoneForm')
         $.ajax(
           type: 'POST'
-          url: 'sendnotifications.php'
+          url: 'http://files.getontracks.com/sendnotifications.php'
           accept: javascript: 'application/javascript'
           data: formserialize
           beforeSend: ->
