@@ -1015,7 +1015,7 @@ a {
 
 .h-faq--sub {
   text-align: left;
-  font-weight: 100;
+  font-weight: 400;
   font-size: 20px; }
 
 .p-question {
@@ -1026,7 +1026,7 @@ a {
 
 .p-answer {
   margin-bottom: 50px;
-  font-weight: 200;
+  font-weight: 400;
   font-size: 18px; }
   .p-answer:before {
     content: "A: "; }
