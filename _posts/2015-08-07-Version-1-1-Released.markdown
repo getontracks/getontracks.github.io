@@ -11,10 +11,10 @@ author: Team Tracks
 
 **Updates updates, get your updates!**   
 
-- Don’t enjoy watching the upload spinner? Videos are now sending at record speeds
-- Is that supposed to happen? We fixed some crashes and bugs (but left a few in because it builds character)
-- What if I’ve got nothing to say? Swipe down on the responding screen to close a conversation
-- Need to send something quick, but have a long video waiting from your friend? Tap the plus icon and send a Fast Track to record without watching their video first
+- Videos are now sending at record speeds
+- "Is that supposed to happen?" We fixed some crashes and bugs (but left a few in because it builds character)
+- "What if I’ve got nothing to say?" Swipe down on the responding screen to close a conversation
+- Need to send something quick, but have a video waiting from your friend? Tap the plus icon and send a Fast Track to record without watching their video first
 - Getting lost in the Tracks time-warp? Tap the screen while watching to see when a video was sent
 - What else? Nifty animations and updated interface
 
@@ -25,6 +25,7 @@ author: Team Tracks
 
 </div>
 
+[Download Tracks on the App Store]
 
 Have a new feature in mind? Tweet at us [@getontracks], or send us an email [hello@getontracks.com]
 
