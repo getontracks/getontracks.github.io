@@ -18,6 +18,16 @@ section.active {}
     }
 }
 
+.post-image-bg {
+    background: $grayExtraLight;
+    padding: 30px 0 10px 0;
+    margin: 20px 0;
+
+    & img {
+        margin: 0 auto;
+        display: block;
+    }
+}
 
 .careers-home-bg {
     padding: 200px 0;

@@ -1,3 +1,22 @@
+.post-content {
+    ul { 
+        list-style-type: none;
+    }
+
+    ul li:before{ 
+        content:"-"; 
+        position:relative; 
+        left: -10px;
+    }
+
+    ul li{ 
+        text-indent: 8px; 
+        font-size: 18px;
+        line-height: 1.8;
+        padding: 5px 0;
+    }
+    
+}
 
 ul.post-list {
     list-style: none;
@@ -7,9 +26,9 @@ a.post-link {
     color: $green;
     display: block;
 
-   &:visited {
-    color: $green;
-   }
+    &:visited {
+        color: $green;
+    }
 }
 
 .post-title {
