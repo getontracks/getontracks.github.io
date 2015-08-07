@@ -2145,9 +2145,9 @@ a.post-link {
   .post-block p {
     padding-bottom: 22px; }
   .post-block a {
-    -webkit-transition: ease all .3s;
-    -moz-transition: ease all .3s;
-    transition: ease all .3s;
+    -webkit-transition: ease all .2s;
+    -moz-transition: ease all .2s;
+    transition: ease all .2s;
     color: #707271;
     border-bottom: 1px solid #707271; }
     .post-block a:hover {
@@ -2155,12 +2155,15 @@ a.post-link {
       border-bottom: 1px solid #413E42; }
 
 .post-link-block {
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s;
   border-bottom: 1px solid #e3e3e3;
   padding: 15px 0 20px 0;
   display: block; }
   .post-link-block:hover {
     cursor: pointer;
-    background: #F2F7FC; }
+    opacity: 0.6; }
 
 .post-meta {
   font-size: 16px; }
@@ -2243,9 +2246,9 @@ a.post-link {
 .jobCard {
   margin: 10px 0 20px 0;
   cursor: pointer;
-  -webkit-transition: ease all .3s;
-  -moz-transition: ease all .3s;
-  transition: ease all .3s; }
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s; }
   .jobCard:hover {
     background: #F2F7FC; }
 
@@ -2269,9 +2272,9 @@ a.post-link {
   top: -8px; }
 
 .logo-splash {
-  -webkit-transition: ease all .3s;
-  -moz-transition: ease all .3s;
-  transition: ease all .3s;
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s;
   max-width: 250px;
   z-index: 10; }
 
@@ -2331,25 +2334,25 @@ a.active {
   position: relative; }
 
 #sidebar.moveSidebarDown {
-  -webkit-transition: ease all .3s;
-  -moz-transition: ease all .3s;
-  transition: ease all .3s;
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s;
   top: 30px;
   position: fixed;
   padding-right: 30px; }
 
 #sidebar.moveSidebarUp {
-  -webkit-transition: ease all .3s;
-  -moz-transition: ease all .3s;
-  transition: ease all .3s;
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s;
   top: -250px;
   position: fixed;
   padding-right: 30px; }
 
 .mobile-menu-dropdown {
-  -webkit-transition: ease all .3s;
-  -moz-transition: ease all .3s;
-  transition: ease all .3s;
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s;
   clear: both;
   display: none;
   background: #f9f9f9; }
@@ -2635,9 +2638,9 @@ hr {
   margin: 0 -55% 0 2%; }
 
 .p-appStore {
-  -webkit-transition: ease all .3s;
-  -moz-transition: ease all .3s;
-  transition: ease all .3s;
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s;
   font-size: 22px;
   color: #fff;
   font-family: "AvenirNextDemiBold", "Helvetica", sans-serif;
@@ -2681,9 +2684,9 @@ hr {
     border-bottom: 1px solid #413E42; }
 
 .p-link--white {
-  -webkit-transition: ease all .3s;
-  -moz-transition: ease all .3s;
-  transition: ease all .3s;
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s;
   text-decoration: none;
   color: #fff;
   border-bottom: 1px solid #4A6986; }
@@ -2707,9 +2710,9 @@ hr {
   margin: 0 auto; }
 
 .button {
-  -webkit-transition: ease all .3s;
-  -moz-transition: ease all .3s;
-  transition: ease all .3s;
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s;
   text-align: center;
   cursor: pointer;
   background: transparent;
@@ -2776,9 +2779,9 @@ hr {
   border-radius: 3px;
   outline: 0;
   text-indent: 10px;
-  -webkit-transition: ease all .3s;
-  -moz-transition: ease all .3s;
-  transition: ease all .3s; }
+  -webkit-transition: ease all .2s;
+  -moz-transition: ease all .2s;
+  transition: ease all .2s; }
   .placeholder-animate::-webkit-input-placeholder {
     color: #efefef;
     text-indent: 0;

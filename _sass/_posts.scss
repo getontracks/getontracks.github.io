@@ -59,13 +59,14 @@ a.post-link {
 }
 
 .post-link-block {
+    @include ease;
     border-bottom: 1px solid lighten($grayLight, 20%);
     padding: 15px 0 20px 0;
     display: block;
 
     &:hover {
         cursor: pointer;
-        background: $purpleLight;
+        opacity: 0.6;
     }
 }
 

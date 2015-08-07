@@ -1,0 +1,5 @@
+@mixin ease {
+    -webkit-transition: ease all .2s;
+    -moz-transition: ease all .2s;
+    transition: ease all .2s;
+}
