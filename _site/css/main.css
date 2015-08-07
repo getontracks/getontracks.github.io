@@ -2422,7 +2422,7 @@ a.active {
   background: #f9f9f9;
   padding: 30px 0 10px 0;
   margin: 20px 0; }
-  .post-image-bg img {
+  .post-image-bg img, .post-image-bg video {
     margin: 0 auto;
     display: block; }
 

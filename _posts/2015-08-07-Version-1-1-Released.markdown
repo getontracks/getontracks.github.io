@@ -25,7 +25,6 @@ author: Team Tracks
 
 </div>
 
-[Download Tracks on the App Store]
 
 Have a new feature in mind? Tweet at us [@getontracks], or send us an email [hello@getontracks.com]
 
