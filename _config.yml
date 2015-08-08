@@ -9,3 +9,6 @@ github_username:  getontracks
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
