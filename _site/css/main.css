@@ -2195,8 +2195,7 @@ a.post-link {
   top: -80px; }
 
 .intro-video {
-  position: relative;
-  top: -40px; }
+  position: relative; }
 
 .tracks-bar {
   background: #25c0b4;
@@ -2428,6 +2427,9 @@ a.active {
   .post-image-bg img, .post-image-bg video {
     margin: 0 auto;
     display: block; }
+
+.intro-section {
+  padding-bottom: 100px; }
 
 .careers-home-bg {
   padding: 200px 0;
@@ -4695,6 +4697,9 @@ input:focus ~ label, input:valid ~ label {
     font-size: 36px;
     padding: 20px 10px 20px 0; } }
 @media (max-width: 992px) and (min-width: 768px) {
+  .intro-section {
+    padding-bottom: 100px; }
+
   p {
     font-size: 18px; }
 
@@ -4752,6 +4757,9 @@ input:focus ~ label, input:valid ~ label {
   .button--submit {
     margin-left: -3px; } }
 @media (max-width: 768px) and (min-width: 200px) {
+  .intro-section {
+    padding-bottom: 50px; }
+
   #sidebar {
     display: none; }
 

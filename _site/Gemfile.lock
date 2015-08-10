@@ -133,3 +133,4 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-sitemap
+  json
