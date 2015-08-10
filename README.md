@@ -5,21 +5,27 @@ Our website: [getontracks.com](http://getontracks.com)
 Using [Jekyll](http://jekyllrb.com/).
 
 Clone the site  
-`git clone https://github.com/getontracks/getontracks.github.io.git`
+```  
+git clone https://github.com/getontracks/getontracks.github.io.git
+```  
 
 Navigate to the folder (feel free to change the name)  
-`cd getontracks.github.io`
+```  
+cd getontracks.github.io
+```  
 
-Install the Jekyll gem  
-`gem install jekyll`
+Install Jekyll gems  
+```  
+gem install jekyll    
+gem install jekyll-sitemap  
+```
 
 Run the site  
-`jekyll s`
+```  
+jekyll s
+```  
 
 Open `localhost:4000` in your browser
-
-Build the site after changes  
-`jekyll build`
 
 ---
 [@getontracks](http://twitter.com/getontracks)   
