@@ -3,15 +3,15 @@
   <channel>
     <title>Tracks - Video Conversations</title>
     <description>Download Tracks for iPhone! Tracks makes video messaging more like talking face-to-face. By capturing your authentic reaction and response each time you open a video, Tracks enables continuous, face-to-face conversations—on your time.</description>
-    <link>http://getontracks.github.io/</link>
-    <atom:link href="http://getontracks.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Aug 2015 21:51:16 -0400</pubDate>
-    <lastBuildDate>Fri, 07 Aug 2015 21:51:16 -0400</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://getontracks.com/</link>
+    <atom:link href="http://getontracks.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Aug 2015 12:03:56 -0400</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2015 12:03:56 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Version 1.1 Released</title>
-        <description>&lt;p&gt;&lt;strong&gt;Updates updates, get your updates!&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Updates updates, get your updates!&lt;/strong&gt;   &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Videos are now sending at record speeds&lt;/li&gt;
@@ -32,8 +32,8 @@
 
 </description>
         <pubDate>Fri, 07 Aug 2015 08:30:56 -0400</pubDate>
-        <link>http://getontracks.github.io/news/version-1-1-released</link>
-        <guid isPermaLink="true">http://getontracks.github.io/news/version-1-1-released</guid>
+        <link>http://getontracks.com/news/version-1-1-released</link>
+        <guid isPermaLink="true">http://getontracks.com/news/version-1-1-released</guid>
         
         
         <category>blog</category>
@@ -42,7 +42,7 @@
     
       <item>
         <title>Tracks Wins Miami Startup of the Year</title>
-        <description>&lt;p&gt;We’re lucky to have been voted Miami’s best startup. Thank you to &lt;a href=&quot;http://tech.co/tracks-live-answer-miami-startups-year-2015-08&quot;&gt;tech.co&lt;/a&gt; for the award!&lt;/p&gt;
+        <description>&lt;p&gt;We’re lucky to have been voted Miami’s best startup. Thank you to &lt;a href=&quot;http://tech.co/tracks-live-answer-miami-startups-year-2015-08&quot;&gt;tech.co&lt;/a&gt; for the award! &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;From Tech.co:&lt;/strong&gt;&lt;br /&gt;
 13 fantastic Miami startups got to pitch their products to the local community: from health care to sports apps, Miami startups really do show up! The winners from Thursday night qualify for the semifinals at Celebrate 2015 in Las Vegas!&lt;/p&gt;
@@ -58,8 +58,8 @@ A crowd estimated at 170 people had a chance to explore the products up close an
 
 </description>
         <pubDate>Mon, 03 Aug 2015 21:30:56 -0400</pubDate>
-        <link>http://getontracks.github.io/news/tracks-miamis-best-startup</link>
-        <guid isPermaLink="true">http://getontracks.github.io/news/tracks-miamis-best-startup</guid>
+        <link>http://getontracks.com/news/tracks-miamis-best-startup</link>
+        <guid isPermaLink="true">http://getontracks.com/news/tracks-miamis-best-startup</guid>
         
         
         <category>blog</category>
@@ -73,16 +73,16 @@ A crowd estimated at 170 people had a chance to explore the products up close an
 
 &lt;p&gt;Learn more about us: &lt;a href=&quot;/about&quot;&gt;About&lt;/a&gt;&lt;br /&gt;
 New jobs available: &lt;a href=&quot;/careers&quot;&gt;Careers&lt;/a&gt;&lt;br /&gt;
-All our fun colors: &lt;a href=&quot;/brand&quot;&gt;Brand&lt;/a&gt;&lt;/p&gt;
+All our fun colors: &lt;a href=&quot;/brand&quot;&gt;Brand&lt;/a&gt;  &lt;/p&gt;
 
 &lt;p&gt;Looking for something? Shoot us an email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#103;&amp;#101;&amp;#116;&amp;#111;&amp;#110;&amp;#116;&amp;#114;&amp;#097;&amp;#099;&amp;#107;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#103;&amp;#101;&amp;#116;&amp;#111;&amp;#110;&amp;#116;&amp;#114;&amp;#097;&amp;#099;&amp;#107;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Our new site is built using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. It’s open source (&lt;a href=&quot;https://github.com/getontracks/getontracks.github.io&quot;&gt;repo&lt;/a&gt;), so feel free to make a pull request for changes you would like to see :)&lt;/p&gt;
+&lt;p&gt;Our new site is built using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, hosted on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;. It’s open source (&lt;a href=&quot;https://github.com/getontracks/getontracks.github.io&quot;&gt;repo&lt;/a&gt;), so feel free to make a pull request for changes you would like to see :) &lt;/p&gt;
 
 </description>
         <pubDate>Mon, 03 Aug 2015 12:30:56 -0400</pubDate>
-        <link>http://getontracks.github.io/news/new-website</link>
-        <guid isPermaLink="true">http://getontracks.github.io/news/new-website</guid>
+        <link>http://getontracks.com/news/new-website</link>
+        <guid isPermaLink="true">http://getontracks.com/news/new-website</guid>
         
         
         <category>blog</category>
@@ -97,8 +97,8 @@ All our fun colors: &lt;a href=&quot;/brand&quot;&gt;Brand&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 01 Jul 2015 12:30:56 -0400</pubDate>
-        <link>http://getontracks.github.io/news/tracks-available-now-for-ios</link>
-        <guid isPermaLink="true">http://getontracks.github.io/news/tracks-available-now-for-ios</guid>
+        <link>http://getontracks.com/news/tracks-available-now-for-ios</link>
+        <guid isPermaLink="true">http://getontracks.com/news/tracks-available-now-for-ios</guid>
         
         <category>ios</category>
         
@@ -111,7 +111,7 @@ All our fun colors: &lt;a href=&quot;/brand&quot;&gt;Brand&lt;/a&gt;&lt;/p&gt;
     
       <item>
         <title>Knight Foundation Grant Winner</title>
-        <description>&lt;p&gt;We’re happy to announce we are one of the recipients of the Knight Foundation Prototype Fund.&lt;/p&gt;
+        <description>&lt;p&gt;We’re happy to announce we are one of the recipients of the Knight Foundation Prototype Fund.  &lt;/p&gt;
 
 &lt;p&gt;More info: &lt;a href=&quot;http://www.knightfoundation.org/grants/201550765/&quot;&gt;Tracks Awarded $35k by the Knight Prototype Fund&lt;/a&gt;&lt;/p&gt;
 
@@ -122,8 +122,8 @@ The Knight Foundation funds groups of prototype projects each quarter. In additi
 
 </description>
         <pubDate>Tue, 28 Apr 2015 21:30:56 -0400</pubDate>
-        <link>http://getontracks.github.io/news/knight-foundation-grant-winner</link>
-        <guid isPermaLink="true">http://getontracks.github.io/news/knight-foundation-grant-winner</guid>
+        <link>http://getontracks.com/news/knight-foundation-grant-winner</link>
+        <guid isPermaLink="true">http://getontracks.com/news/knight-foundation-grant-winner</guid>
         
         
         <category>blog</category>
