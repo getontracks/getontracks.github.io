@@ -10,16 +10,14 @@ Clone the site
 Navigate to the folder (feel free to change the name)  
 `cd getontracks.github.io`
 
-Install the Jekyll gem  
+Install Jekyll gems  
 `gem install jekyll`
+`gem install jekyll-sitemap`
 
 Run the site  
 `jekyll s`
 
 Open `localhost:4000` in your browser
-
-Build the site after changes  
-`jekyll build`
 
 ---
 [@getontracks](http://twitter.com/getontracks)   
