@@ -16,11 +16,10 @@ author: Team Tracks
 - Added helpers so you know what's going on
 - Faster sending, aka the app is just better now
 - Have an idea for the app? Submit feedback in Settings
-
-Love, your friendly neighborhood team tracks
+- Love, your friendly neighborhood team tracks  
+<br>
 
 [Download Tracks on the App Store]
-
 
 Have a new feature in mind? Tweet at us [@getontracks], or send us an email [hello@getontracks.com]
 
