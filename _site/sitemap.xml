@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://getontracks.com/news/version-1-2.1-released</loc>
+    <lastmod>2015-08-26T02:30:56-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://getontracks.com/news/version-1-2-released</loc>
     <lastmod>2015-08-12T08:30:56-04:00</lastmod>
   </url>
@@ -41,22 +45,22 @@
   </url>
   <url>
     <loc>http://getontracks.com/faq.html</loc>
-    <lastmod>2015-08-12T23:04:36-04:00</lastmod>
+    <lastmod>2015-08-10T19:16:49-04:00</lastmod>
   </url>
   <url>
     <loc>http://getontracks.com/feedback.html</loc>
-    <lastmod>2015-08-04T13:55:33-04:00</lastmod>
+    <lastmod>2015-08-10T18:42:28-04:00</lastmod>
   </url>
   <url>
     <loc>http://getontracks.com/legal/EULA.html</loc>
-    <lastmod>2015-07-14T10:55:11-04:00</lastmod>
+    <lastmod>2015-08-10T18:42:28-04:00</lastmod>
   </url>
   <url>
     <loc>http://getontracks.com/legal/PrivacyPolicy.html</loc>
-    <lastmod>2015-07-07T10:56:33-04:00</lastmod>
+    <lastmod>2015-08-10T18:42:28-04:00</lastmod>
   </url>
   <url>
     <loc>http://getontracks.com/legal/TOS.html</loc>
-    <lastmod>2015-07-14T10:55:03-04:00</lastmod>
+    <lastmod>2015-08-10T18:42:28-04:00</lastmod>
   </url>
 </urlset>

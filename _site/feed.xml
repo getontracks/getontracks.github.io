@@ -5,9 +5,36 @@
     <description>Download Tracks for iPhone! Tracks makes video messaging more like talking face-to-face. By capturing your authentic reaction and response each time you open a video, Tracks enables continuous, face-to-face conversations—on your time.</description>
     <link>http://getontracks.com/</link>
     <atom:link href="http://getontracks.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Aug 2015 23:35:47 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2015 23:35:47 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Aug 2015 11:11:46 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2015 11:11:46 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Version 1.2.1 Released</title>
+        <description>&lt;p&gt;&lt;strong&gt;Updates updates, get your updates!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quick Capture! Now tapping the plus button starts recording instantly&lt;/li&gt;
+  &lt;li&gt;Swipe to edit. Simply slide contacts to the left to edit names, leave conversations, and exit the demo track once you’ve seen it a few times :wink:&lt;/li&gt;
+  &lt;li&gt;Remember that failed recording bug? Neither do we. We must have left it behind.&lt;/li&gt;
+  &lt;li&gt;Have an idea for the app? Submit feedback in Settings&lt;/li&gt;
+  &lt;li&gt;If you were a Tracks user, what would your name be? Answer coming soon.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/app/apple-store/id991383515?pt=117131894&amp;amp;ct=Article%20Link&amp;amp;mt=8&quot;&gt;Download Tracks on the App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Have a new feature in mind? Tweet at us &lt;a href=&quot;http://twitter.com/getontracks&quot;&gt;@getontracks&lt;/a&gt;, or send us an email &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#103;&amp;#101;&amp;#116;&amp;#111;&amp;#110;&amp;#116;&amp;#114;&amp;#097;&amp;#099;&amp;#107;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#103;&amp;#101;&amp;#116;&amp;#111;&amp;#110;&amp;#116;&amp;#114;&amp;#097;&amp;#099;&amp;#107;&amp;#115;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 26 Aug 2015 02:30:56 -0400</pubDate>
+        <link>http://getontracks.com/news/version-1-2.1-released</link>
+        <guid isPermaLink="true">http://getontracks.com/news/version-1-2.1-released</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Version 1.2 Released</title>

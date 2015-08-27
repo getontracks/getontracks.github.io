@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Version 1.2.1 Released"
+date:   2015-08-26 6:30:56
+categories: blog
+permalink: /news/version-1-2.1-released
+description: "Tracks Version 1.2.1 Released to App Store"
+excerpt: "Update your Tracks app today!"
+author: Team Tracks
+---
+
+**Updates updates, get your updates!**   
+
+- Quick Capture! Now tapping the plus button starts recording instantly
+- Swipe to edit. Simply slide contacts to the left to edit names, leave conversations, and exit the demo track once you’ve seen it a few times :wink:
+- Remember that failed recording bug? Neither do we. We must have left it behind. 
+- Have an idea for the app? Submit feedback in Settings
+- If you were a Tracks user, what would your name be? Answer coming soon.  
+<br>
+
+[Download Tracks on the App Store]
+
+Have a new feature in mind? Tweet at us [@getontracks], or send us an email [hello@getontracks.com]
+
+[Download Tracks on the App Store]: https://itunes.apple.com/app/apple-store/id991383515?pt=117131894&ct=Article%20Link&mt=8
+
+[hello@getontracks.com]: mailto:hello@getontracks.com
+[@getontracks]: http://twitter.com/getontracks
